@@ -1,4 +1,4 @@
-# Star-Social
+# Star-Social (w/ Demo)
 Social media web app for people interested in space and looking for a platform to express their thoughts on the same. 
 
 **Create a new Account and login:**
